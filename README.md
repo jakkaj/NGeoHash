@@ -2,8 +2,7 @@ NGeoHash.Portable
 =================
 
 
-This library is a PCL conversion of NGeoHash https://github.com/jesseemerick/NGeoHash which is a direct port of  
-Node-Geohash https://github.com/sunng87/node-geohash.
+This library is a C# PCL conversion of NGeoHash https://github.com/jesseemerick/NGeoHash which is a direct port of Node-Geohash https://github.com/sunng87/node-geohash.
 
 This library can be used to create integer GeoHashes that work with Redis sets. 
 

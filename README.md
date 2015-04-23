@@ -1,3 +1,25 @@
+NGeoHash.Portable
+=================
+
+
+This library is a PCL conversion of NGeoHash https://github.com/jesseemerick/NGeoHash which is a direct port of  
+Node-Geohash https://github.com/sunng87/node-geohash.
+
+This library can be used to create integer GeoHashes that work with Redis sets. 
+
+See https://github.com/arjunmehta/node-geo-proximity and https://github.com/yinqiwen/ardb/blob/master/doc/spatial-index.md for more information. 
+
+
+Unit test coverate compares results with GeoHash.org to ensure accuracy. 
+
+PCL Alterations by Jordan Knight 2015 available under MS-PL http://opensource.org/licenses/MS-PL
+
+
+
+--------
+
+Below is the original licence from Jesse Emerick. 
+
 NGeoHash
 ========
 
@@ -25,3 +47,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+

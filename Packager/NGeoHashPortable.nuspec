@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NGeoHash.Portable</id>
+	<title>NGeoHash.Portable</title>
+    <version>1.0.0</version>
+    <authors>Jordan Knight</authors>
+    <owners>Jordan Knight</owners>
+    <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
+    <projectUrl>https://github.com/jakkaj/NGeoHash</projectUrl>
+    <iconUrl>http://xamling.net/Media/Images/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PCL version of NGeoHash (https://github.com/jesseemerick/NGeoHash) which is a port of node-geohash (https://github.com/sunng87/node-geohash)</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2014 Jesse Emerick
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+PCL Alterations 2015 Jordan Knight avaialable under MS-PL (http://opensource.org/licenses/MS-PL)
+</copyright>
+    <tags>GeoHash node-geohash PCL Portable</tags>
+    <dependencies>
+       
+    </dependencies>
+  </metadata>
+</package>
